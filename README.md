@@ -8,6 +8,6 @@ Grupo T:
     Vicente Sepúlveda Ruz - 19986229-4
 
 HTR
-  1) make main
-  2) ./app
+  1 ) make main
+  2 ) ./app
 
