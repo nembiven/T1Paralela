@@ -1,7 +1,6 @@
 # T1Paralela
 Trabajo 1 Computación Paralela y Distribuida
- _______________
-|               |
-|   make main   |
-|    ./app      |
-|_______________|
+
+1) make main
+2) ./app
+
